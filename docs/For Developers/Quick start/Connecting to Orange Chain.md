@@ -12,6 +12,18 @@
 
 **Chainlist**: https://chainlist.org/chain/240515
 
-# **Mainnet**
 
-coming soon
+
+## Mainnet
+
+**Network name:** Orange Chain Mainnet  
+
+**RPC URL:** https://rpc.orangechain.xyz
+
+**Chain ID:** 61022  
+
+**Currency symbol:** BTC  
+
+**Block explorer URL:** https://scan.orangechain.xyz
+
+**Chainlist**: https://chainlist.org/chain/61022
