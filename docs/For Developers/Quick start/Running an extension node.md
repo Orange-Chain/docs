@@ -7,7 +7,7 @@ It is recommended to use this method to simplify the operation steps.
 Just execute the following command and wait for it to complete automatically
 
 ```shell
-wget -c http://18.167.109.180:8866/orange-external-node/install.sh && chmod +x ./install.sh && ./install.sh
+wget -c https://download.orangechain.xyz/orange-external-node/install.sh && chmod +x ./install.sh && ./install.sh
 ```
 
 Select the network to be deployed.
